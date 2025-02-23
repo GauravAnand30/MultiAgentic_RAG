@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+#responseText {
+    font-weight: bold;
+}
