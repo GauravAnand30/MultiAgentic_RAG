@@ -14,7 +14,7 @@ All through **hands-free voice commands**, making it highly accessible and user-
 ---
 
 ## 🎥 Demo Video  
-[Watch the Demo Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1ux-S27-prAzwghlKQSyd3iKMxgbhmYWZ/view?usp=drive_link))
+[Watch the Demo Video][https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1ux-S27-prAzwghlKQSyd3iKMxgbhmYWZ/view?usp=drive_link)
 
 
 ## Project Architecture
